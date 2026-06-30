@@ -29,7 +29,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("Asisten Akademik: Pemrograman Web")
-st.markdown("Sistem ini dikembangkan untuk membantu mahasiswa memahami materi HTML, CSS, dan JavaScript secara spesifik berdasarkan e-book referensi perkuliahan.")
+st.markdown("Halo! Chatbot ini siap membantu proses belajar kamu dalam memahami dasar-dasar pemrograman web, mulai dari HTML, CSS, hingga JavaScript.")
 st.markdown("---")
 
 
